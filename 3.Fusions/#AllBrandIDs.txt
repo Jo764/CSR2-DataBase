@@ -13,6 +13,7 @@ id_bentley
 id_bmw
 id_brabham
 id_bugatti
+id_buick
 id_cadillac
 id_chevrolet
 id_czinger
@@ -45,6 +46,7 @@ id_maserati
 id_mazda
 id_mazzanti
 id_mclaren
+id_mcmurtry
 id_mercedes
 id_mercedesamgpetronas
 id_mini
