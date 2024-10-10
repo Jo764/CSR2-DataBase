@@ -42,6 +42,12 @@
 	SeasonPassPremiumUnlock = 41
 	ECDiscount = 42
 	SeasonPassRPBoost = 43
-    ProfileBannerForeground = 44
-    ProfileBannerBackground = 45
-    MaxRewardTypes = 46
+	ProfileBannerForeground = 44
+	ProfileBannerBackground = 45
+	CollectionPoints = 46
+	CarCredits = 47
+	LootBox = 48
+	MaxRewardTypes = 49
+	GoldShield = 49
+	SilverShield = 50
+	BronzeShield = 51
